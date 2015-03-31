@@ -14,7 +14,7 @@
   - Instanciar objetos (que es la arroba '@'? los dos puntos?) *OK*
 - Git
   - Git vs Github? *OK*
-  - Que es un branch?
+  - Que es un branch? *OK*
   - Hacer merge
 - Rails
   - Como comenzar?
