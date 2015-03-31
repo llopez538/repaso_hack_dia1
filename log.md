@@ -15,7 +15,7 @@
 - Git
   - Git vs Github? *OK*
   - Que es un branch? *OK*
-  - Hacer merge
+  - Hacer merge *OK*
 - Rails
   - Como comenzar?
   - MVC
