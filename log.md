@@ -24,5 +24,5 @@
 
   - Fat models Skinny controllers.
 - REST
-  - Routes
-  - POSTMAN
+  - Routes *OK*
+  - POSTMAN *OK*
