@@ -1,0 +1,28 @@
+- La consola *OK*
+- Vagrant *OK*
+- Algoritmos Ruby
+  - Variables *OK*
+  - Arrays *OK*
+  - Clase vs Objeto? *OK*
+  - Herencia *OK*
+  - Funciones *OK*
+  - Metodos de clase *OK*
+  - Convencion en funciones *OK*
+  - Simbolos *OK*
+  - Hashes *OK*
+  - Simbolos vs Hashes *OK*
+  - Instanciar objetos (que es la arroba '@'? los dos puntos?) *OK*
+- Git
+  - Git vs Github? *OK*
+  - Que es un branch?
+  - Hacer merge
+- Rails
+  - Como comenzar?
+  - MVC
+  - La consola de rails, comandos.
+  - BD en rails.
+
+  - Fat models Skinny controllers.
+- REST
+  - Routes
+  - POSTMAN
